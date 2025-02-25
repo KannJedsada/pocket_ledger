@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pocket_ledger
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# pocket_ledger
+>>>>>>> 1710971c6de2552c13f46791e1188782f30c0d93
