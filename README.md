@@ -1,20 +1,30 @@
-<<<<<<< HEAD
+
 # pocket_ledger
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Pocket Ledger is a mini-project for the Development of Mobile Device Application course. This mobile application helps users track their income and expenses by categorizing transactions and displaying financial summaries on a daily and monthly basis. The app is developed using Flutter.
 
-This project is a starting point for a Flutter application.
+## Features
+  - Record income and expenses with category selection
+  - View daily and monthly financial summaries
+  - Categorized transaction tracking
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+  - Framework: Flutter
+  - Programming Language: Dart
+  - Local Storage: SharedPreferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pocket_ledger
->>>>>>> 1710971c6de2552c13f46791e1188782f30c0d93
+### Home Screen
+![image](https://github.com/user-attachments/assets/1e22f52d-12af-4456-a4d5-785e55f2769b)
+
+### Add Transaction
+![image](https://github.com/user-attachments/assets/e146722a-7cd8-426d-b8fb-564c94d920a3)
+
+### Monthly Summary
+![image](https://github.com/user-attachments/assets/572f3215-173c-42e0-80d1-0c3d796dfa89)
+
+
+
